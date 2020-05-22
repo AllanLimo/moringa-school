@@ -1,0 +1,10 @@
+*>Developed By Allan K Limo. allankibichiilimo@gmail.com
+
+*>description<* this is a school management template developed by allan to help other learners understand the structure and functionality of a SMS
+*>language< Java
+
+*>frameworks and libraries< Maven, JDBC
+
+*>Installation Instruction. Download the project, get the correct libraries and then put them in your project repository an you are ready to go
+
+*>License The MIT licence Copyright (c)2020 Allan Limo
